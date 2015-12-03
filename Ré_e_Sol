@@ -1,0 +1,22 @@
+{
+   "id": "GAITA"
+  ,"menuOrder": 100
+  ,"model": "Modelo"
+  ,"tuning": ["A","D","G"]
+  ,"buttons": ["31","8"]
+  ,"pedal": [2,6]
+  ,"keyboard": 
+    {
+       "layout": [0.5, 0, 0.5]
+      ,"keys":
+      {
+        "close": [lista-de-botoes]
+       , "open": [lista-de-botoes]
+      }
+      ,"basses":
+      {
+        "close": [lista-de-botoes]
+       , "open": [lista-de-botoes]
+      }
+    }
+}
